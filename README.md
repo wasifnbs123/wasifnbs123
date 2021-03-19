@@ -10,8 +10,7 @@ Fully open and willing to adopt new ideas and new ways of working and doing thin
    -   Kubernetes 
 - 📫 Although I'm not currently looking for freelance & full/part time JOB opportunities, My inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer you asap! Say Hello
    - Email me at wasifmirza7@gmail.com
-   - Contact me at +92-300-6311440
-   Social Links
+ - Social Links
    - LinkedIn https://www.linkedin.com/in/wasif-mirza-381284164/
 
 <!---
