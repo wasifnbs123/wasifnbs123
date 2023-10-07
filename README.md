@@ -1,14 +1,18 @@
-- 👋 Hello, I’m Wasif Mirza.
-- 👀 I'm 2+ years experienced Software Engineer from Pakistan, Who loves to code and work with challenging designs and amazing functionalities specializing in High-Quality Web Development and Cloud Services.
-I appreciate being a team player, since it enhances the development of great products, plus improving ideas & friendships. Though I can work as well as individually, being my own friend.
-Fully open and willing to adopt new ideas and new ways of working and doing things.
-- 🌱 I’m experienced in 
-   - Java/ Spring Boot
-   - Cloud Services
-   -  DevOps/ Aws/ Azure
-   -  Terraform
-   -   Kubernetes 
-- 📫 Although I'm not currently looking for freelance & full/part time JOB opportunities, My inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer you asap! Say Hello
+👋 Greetings, I'm Wasif Mirza, a seasoned Software Engineer hailing from Pakistan with over four years of professional experience. My passion lies in crafting elegant code and tackling intricate designs, all while delivering exceptional functionality. I specialize in the realm of High-Quality Web Development and Cloud Services, where I thrive on overcoming complex challenges.
+
+🚀 Collaboration is my forte, as I firmly believe that great products are born from teamwork. My ability to foster innovation and strengthen both ideas and friendships within the team is a personal highlight. While I excel in collaborative settings, I'm equally adept at working independently, nurturing a strong sense of self-reliance.
+
+💡 My commitment to growth is unwavering, as I eagerly embrace fresh perspectives and novel approaches to problem-solving. I am perpetually open to new ideas and evolving work methodologies, always seeking to enhance my skill set.
+
+🌱 My expertise extends across various domains, including:
+
+- Java/Spring Boot
+- Microservices/Restful Services
+- AWS/Azure
+- Docker/Containerization
+- Python FastAPI
+  
+📫 While I am not actively seeking freelance or full/part-time job opportunities at the moment, my inbox is perpetually open. Whether you wish to discuss a potential project or simply exchange greetings, I'm here to respond promptly. Feel free to reach out and say hello!
    - Email me at wasifmirza7@gmail.com
  - Social Links
    - LinkedIn https://www.linkedin.com/in/wasif-mirza-381284164/
