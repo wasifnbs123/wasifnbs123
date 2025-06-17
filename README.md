@@ -1,4 +1,4 @@
-👋 Greetings, I'm Wasif Mirza, a seasoned Software Engineer hailing from Pakistan with over 5+ years of professional experience. My passion lies in crafting elegant code and tackling intricate designs, all while delivering exceptional functionality. I specialize in the realm of High-Quality Web Development and Cloud Services, where I thrive on overcoming complex challenges.
+👋 Greetings, I'm Wasif Mirza, a seasoned Software Engineer hailing from Pakistan with over 6+ years of professional experience. My passion lies in crafting elegant code and tackling intricate designs, all while delivering exceptional functionality. I specialize in the realm of High-Quality Web Development and Cloud Services, where I thrive on overcoming complex challenges.
 
 🚀 Collaboration is my forte, as I firmly believe that great products are born from teamwork. My ability to foster innovation and strengthen both ideas and friendships within the team is a personal highlight. While I excel in collaborative settings, I'm equally adept at working independently, nurturing a strong sense of self-reliance.
 
